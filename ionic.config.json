@@ -1,0 +1,8 @@
+{
+  "name": "2damprueba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "693f3daf"
+}
